@@ -1,0 +1,23 @@
+{
+  "name": "express8",
+  "version": "1.0.0",
+  "description": "表单提交数据",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yi441571677/express8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yi441571677/express8/issues"
+  },
+  "homepage": "https://github.com/yi441571677/express8#readme"
+}
